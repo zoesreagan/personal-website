@@ -611,6 +611,10 @@ hr {
   border-radius: 100vh;
 }
 
+#UX {
+  color: rgb(68, 80, 84);
+}
+
 #headline, .emphasis {
   text-align: center;
   }
