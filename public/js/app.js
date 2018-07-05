@@ -1,6 +1,5 @@
 console.log("connected");
 
-
 $(window).scroll(function(){
 
   const windowTop = $(window).scrollTop();
